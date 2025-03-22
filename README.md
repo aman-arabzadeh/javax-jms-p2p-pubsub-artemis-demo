@@ -14,10 +14,13 @@ Detta projekt visar hur man använder **Java Message Service (JMS)** med `javax.
 ## Starta Artemis Broker (lokalt) På Windows använd:
 
 1. Gå till Artemis `bin`-mapp Skapa en broker-instans:
+   
 .\artemis.cmd create ..\myBroker
 
 3. Gå till gå till skapade broker instans sök väg `bin`-mapp Starta brokern:
+   
 cd ..\myBroker\bin
+
 .\artemis.cmd run
 
 
