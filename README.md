@@ -11,7 +11,7 @@ Detta projekt visar hur man använder **Java Message Service (JMS)** med `javax.
 [Ladda ner Apache ActiveMQ Artemis](https://activemq.apache.org/components/artemis/download/)
 
 
-## 🚀 Starta Artemis Broker (lokalt) På Windows använd:
+## Starta Artemis Broker (lokalt) På Windows använd:
 
 1. Gå till Artemis `bin`-mapp Skapa en broker-instans:
 .\artemis.cmd create ..\myBroker
