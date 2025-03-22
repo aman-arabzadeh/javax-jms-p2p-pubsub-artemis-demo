@@ -17,7 +17,7 @@ Detta projekt visar hur man använder **Java Message Service (JMS)** med `javax.
    
 .\artemis.cmd create ..\myBroker
 
-3. Gå till gå till skapade broker instans sök väg `bin`-mapp Starta brokern:
+2. Gå till gå till skapade broker instans sök väg `bin`-mapp Starta brokern:
    
 cd ..\myBroker\bin
 
